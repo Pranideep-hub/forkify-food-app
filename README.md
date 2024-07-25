@@ -20,7 +20,6 @@ The Forkify Food App is a web application that allows users to search for recipe
    ```
 
 2. **Install dependencies**:
-   Ensure you have Node.js and npm installed. Then, install the required packages:
    ```sh
    npm install
    ```
